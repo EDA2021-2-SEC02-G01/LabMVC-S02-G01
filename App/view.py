@@ -42,8 +42,6 @@ def printMenu():
     print("Opciones:")
     print("1- Cargar Libros")
     print("2- Cargar Tags")
-    print("Prueba de actualización 12/08")
-    print("GG")
     # TODO: Modificaciones para el laboratorio 1.
     print("0- Salir")
 
