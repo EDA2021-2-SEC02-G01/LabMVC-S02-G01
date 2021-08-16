@@ -45,6 +45,7 @@ def printMenu():
     print("2- Cargar Tags")
     print("3- Cargar Tags de Libros")
     # TODO: Modificaciones para el laboratorio 1.
+    print("4- Registrar un nuevo Tag")
     print("0- Salir")
 
 
@@ -89,7 +90,10 @@ while True:
         print("Cargando información Tags de libros")
         book_tags=loadBooksTags()
         print("Total de Tags de lirbos cargadas: "+ str(lt.size(book_tags)))
-
+    elif int(inputs[0])== 4:
+        print("Dijite los datos del libro por agregar.")
+        a = input()
+        print("Es broma, no tengo la más mínima idea de como esta planeado en C y M.")
     else:
         sys.exit(0)
 sys.exit(0)
