@@ -1,1 +1,1 @@
-En este directorio van los datos de prueba de los proyectos
+Andrés Santiago Martínez Hernández, as.martinez@uniandes.edu.co, 201921006
