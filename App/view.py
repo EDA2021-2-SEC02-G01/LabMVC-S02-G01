@@ -92,7 +92,7 @@ while True:
         print("Total de Tags de lirbos cargadas: "+ str(lt.size(book_tags)))
     elif int(inputs[0])== 4:
         print("Dijite los datos del libro por agregar.")
-        #En un futuro taller esperamos poder agregar esta función.
+        #En un futuro taller esperamos poder  agregar esta función.
     else:
         sys.exit(0)
 sys.exit(0)
